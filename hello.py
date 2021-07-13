@@ -8,6 +8,15 @@ print("hello world")
 
 '''multiline comment . Thanks for reading'''
 
+#practice 
+
+#play sound with python
+
+#playsound module
+from playsound import playsound
+
+playsound('C:\\Users\\Lenovo\\Desktop\\[MP3DOWNLOAD.TO] Badshah - Paani Paani _ Jacqueline Fernandez _ Aastha Gill _ Official Music Video-320k.mp3')
+
 
 
 
